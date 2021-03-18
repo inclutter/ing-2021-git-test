@@ -10,4 +10,8 @@ GIT test repository.
 1. test
 >>>>>>> br2
 
+<<<<<<< HEAD
 dddd
+=======
+aaadd
+>>>>>>> br5
